@@ -1,4 +1,4 @@
-# Optimal-Method-for-CDA
+# Choosing an Optimal Method for Causal Decomposition Analysis with Continuous Outcomes: A Review and Simulation Study
 
 Soojin Park<sup>1</sup>, Suyeon Kang<sup>2</sup>, and Chioun Lee<sup>3</sup>
 
